@@ -6,7 +6,7 @@
 
 **i love code** **and models that cite their sources**
 
-<img src="training.svg" alt="Model under training" width="100%">
+<img src="runner.svg" alt="Commit Runner: a pixel markhor hops across my last year of contributions" width="100%">
 
 <br>
 
