@@ -2,7 +2,7 @@
 
 Full Stack Developer (AI Products) at Coding The Brains. I build LLM agents, RAG services and the Python backends under them, then ship them.
 
-BS Computer Science (Data Science), COMSATS University Islamabad, 2026.
+BS Computer Science (Data Science), 2026.
 
 ## What I work on
 
