@@ -19,7 +19,7 @@
 
 full stack developer on ai products at coding the brains.<br>
 mostly llm agents, rag, and the python backends that hold them up.<br>
-not tied to a single role or stack, just whatever gets the job done cleanly.
+the stack changes with the problem. clean work doesn't.
 
 i care about what a model costs and how fast it answers, not only whether it sounds smart.
 
