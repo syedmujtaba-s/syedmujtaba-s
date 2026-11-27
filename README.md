@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedmujtaba-s/syedmujtaba-s/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedmujtaba-s/syedmujtaba-s/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/syedmujtaba-s/syedmujtaba-s/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<p align="center"><i>generated with <a href="https://github.com/Platane/snk">Platane/snk</a></i></p>
+
 <h2 align="center">hi, you made it this far</h2>
 
 <p align="center">i build ai products and keep them running after the demo</p>
@@ -25,13 +33,3 @@ i care about what a model costs and how fast it answers, not only whether it sou
 ### stack
 
 python, fastapi, django, postgresql, pytorch, react, flutter
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syedmujtaba-s/syedmujtaba-s/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syedmujtaba-s/syedmujtaba-s/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/syedmujtaba-s/syedmujtaba-s/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-<p align="center"><i>generated with <a href="https://github.com/Platane/snk">Platane/snk</a></i></p>
