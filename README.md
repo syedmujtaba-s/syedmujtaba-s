@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="header.svg" alt="Syed Mujtaba Shah: building LLM agents, RAG and the backends under them" width="100%">
-</div>
-
-<br>
-
 **i love code** **and models that cite their sources**
 
 <picture>
