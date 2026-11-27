@@ -1,42 +1,25 @@
-# model card: `mujtaba-v1`
+<div align="center">
+  <img src="header.svg" alt="Syed Mujtaba Shah: building LLM agents, RAG and the backends under them" width="100%">
+</div>
 
-> A full stack developer, fine-tuned on AI products. Currently deployed at Coding The Brains.
+<br>
 
-| | |
-|---|---|
-| **Architecture** | Python, FastAPI, Django, PostgreSQL, React, Flutter |
-| **Pretraining** | BS Computer Science (Data Science), 2022 to 2026 |
-| **Fine-tuned on** | LLM agents, RAG, vision and speech models in production |
-| **Languages** | English, Urdu, Pashto |
-| **Inference hours** | Day or night shift |
-| **License** | Open to work |
+**i love code** 🤖 **and models that cite their sources**
 
-## Evals
+<img src="training.svg" alt="Model under training" width="100%">
 
-| Benchmark | Result |
-|---|---|
-| Tools wired into one agent | 17, with guardrails and spend caps |
-| Automated tests on one backend | 388 |
-| Records loaded by one pipeline | about 2.9M |
-| Image cost of a vision pipeline | down about 60%, same output |
+<br>
 
-## Known limitations
+check out my final-year project: [Sakinah](https://github.com/syedmujtaba-s/sakinah-fyp) 🔥
 
-- Asks what a model costs per request before asking how smart it is.
-- Won't answer without sources. A RAG habit.
+and [FaithBrains](https://github.com/syedmujtaba-s/faith-brains), search with cited answers 🔥
 
-## Checkpoints
+<br>
 
-- [sakinah-fyp](https://github.com/syedmujtaba-s/sakinah-fyp): emotion detection from a face photo or journal text, with guidance retrieved through RAG. FastAPI, MongoDB Atlas Vector Search, Flutter.
-- [faith-brains](https://github.com/syedmujtaba-s/faith-brains): Quran and Hadith search with cited answers. FastAPI, pgvector, Next.js.
-- [sidebrain-watch](https://github.com/syedmujtaba-s/sidebrain-watch): standalone Wear OS app for a wearable AI assistant. Kotlin, Jetpack Compose.
+<img src="badges.svg" alt="388 tests pass, RAG inside, powered by FastAPI, open to work" width="100%">
 
-## Usage
-
-```python
-from github import mujtaba
-
-mujtaba.hire(role="AI engineer", start="immediately")
-```
+<div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/syedmujtaba-s) · mujtabashah.dev@gmail.com
+
+</div>
