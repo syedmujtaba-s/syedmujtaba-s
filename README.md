@@ -28,7 +28,8 @@ i care about what a model costs and how fast it answers, not only whether it sou
 - an agent with 17 tools, guardrails and spend caps
 - search over about 42,000 texts that only answers with sources
 - a wear os app that talks to an ai assistant
+- an app that reads emotion from a face or a journal entry, then answers with guidance
 
-### stack
+### usually reaching for
 
 python, fastapi, django, postgresql, pytorch, react, flutter
