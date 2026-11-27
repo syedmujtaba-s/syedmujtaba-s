@@ -4,8 +4,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/syedmujtaba-s/syedmujtaba-s/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<p align="center"><i>generated with <a href="https://github.com/Platane/snk">Platane/snk</a></i></p>
-
 <h2 align="center">hi, you made it this far</h2>
 
 <p align="center">i build ai products and keep them running after the demo</p>
