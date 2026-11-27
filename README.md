@@ -4,15 +4,15 @@
 
 <br>
 
-**i love code** 🤖 **and models that cite their sources**
+**i love code** **and models that cite their sources**
 
 <img src="training.svg" alt="Model under training" width="100%">
 
 <br>
 
-check out my final-year project: [Sakinah](https://github.com/syedmujtaba-s/sakinah-fyp) 🔥
+check out my final-year project: [Sakinah](https://github.com/syedmujtaba-s/sakinah-fyp)
 
-and [FaithBrains](https://github.com/syedmujtaba-s/faith-brains), search with cited answers 🔥
+and [FaithBrains](https://github.com/syedmujtaba-s/faith-brains), search with cited answers
 
 <br>
 
